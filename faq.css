@@ -40,7 +40,8 @@ main .card {
         background-repeat: no-repeat;
         background-size: 230px;
         background-position: top 5px left 50%;
-        height: 530px;
+        height: 490px;
+        margin-top:80px;
     }
 }
 
@@ -52,7 +53,7 @@ main .img {
 @media (max-width:768px) {
     main .img  {
         top: -125px;
-        margin-bottom: -40px;
+        margin-bottom: -90px;
     }
 }
 
